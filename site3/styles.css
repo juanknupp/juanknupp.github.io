@@ -48,7 +48,6 @@ nav a:hover {
   background-size: 1100px 300px;
   display: flex;
   align-items: center;
-  color: white;
 }
 
 .main-text {
@@ -100,6 +99,7 @@ nav a:hover {
 .depoimento {
   background: #cfe3ec;
   padding: 15px;
+  font-size: 30px;
 }
 
 footer {

@@ -139,15 +139,15 @@ footer p {
   margin-bottom: 5px;
 }
 
-.big {
+.grande {
   height: 250px;
 }
 
-.medium {
+.med {
   height: 150px;
 }
 
-.small {
+.peq {
   width: 60px;
   height: 60px;
 }
